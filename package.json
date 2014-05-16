@@ -1,6 +1,6 @@
 {
     "name": "readfilesyncwithcache",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Cache files read using fs.readFileSync",
     "repository": {
         "type": "git",
