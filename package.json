@@ -1,0 +1,17 @@
+{
+    "name": "readFileSyncWithCache",
+    "version": "0.0.1",
+    "description": "Cache files read using fs.readFileSync",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/chirag04/readFileSyncWithCache.git"
+    },
+    "homepage": "https://github.com/chirag04/readFileSyncWithCache",
+    "keywords": ["fs", "readFile", "readFileSync", "cache", "readfilesync cache", "cache readFile"],
+    "author": {
+        "name": "Chirag Jain",
+        "email": "jain_chirag04@yahoo.com",
+        "url": "http://chiragjain.tumblr.com"
+    },
+    "license": "MIT"
+}
