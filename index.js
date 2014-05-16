@@ -14,3 +14,5 @@ fs.readFileSync = function(filename, options) {
   }
   return file;
 }
+
+module.exports = fs;
