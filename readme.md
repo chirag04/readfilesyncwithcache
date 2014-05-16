@@ -6,7 +6,7 @@ Cache files read using fs.readFileSync.
 
 Install
 
-`npm install readFileSyncWithCache`
+`npm install readfilesyncwithcache`
 
 
 JavaScript Code:
@@ -16,7 +16,7 @@ JavaScript Code:
 
 var fs = require('fs');
 // always require after requiring fs.
-require('readfileSyncWithCahe');
+require('readfilesyncwithcache');
 
 //Use regular fs.readFileSync syntax to read files.
 var  file = fs.readFileSync('test.js');
